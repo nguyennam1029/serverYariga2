@@ -1,9 +1,102 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "property": [
+    {
+      "id": 1,
+      "title": "Metro Jayakarta Hotel & Spa",
+      "address": "North NewYork, USA",
+      "facility": {
+        "beds": 1,
+        "baths": 1,
+        "area": "38M",
+        "smooking-area": true,
+        "kitchen": true,
+        "balcony": true,
+        "wifi": true,
+        "parking-area": true
+      },
+      "status": "sale",
+      "type": "apartment",
+      "price": 7500,
+      "image": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1452&q=80",
+        "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=8080",
+
+        "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+      ],
+      "country": "USA",
+
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "rating": 4.5,
+      "state": "North Carolina",
+      "agent": {
+        "name": "Hussain Ahmed",
+        "phone": "+1 234 567 890",
+        "address": "North Carolina, USA",
+        "properties": 10
+      }
+    },
+    {
+      "id": 2,
+      "title": "Metro Jayakarta Hotel & Spa",
+      "address": "North NewYork, USA",
+      "facility": {
+        "beds": 1,
+        "baths": 1,
+        "area": "38M",
+        "smooking-area": true,
+        "kitchen": true,
+        "balcony": true,
+        "wifi": true,
+        "parking-area": true
+      },
+      "status": "sale",
+      "type": "apartment",
+      "price": 7500,
+      "image": [
+        "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=8080",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=8080",
+
+        "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80"
+      ],
+      "country": "USA",
+
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "rating": 4.5,
+      "state": "North Carolina",
+      "agent": {
+        "name": "Hussain Ahmed",
+        "phone": "+1 234 567 890",
+        "address": "North Carolina, USA",
+        "properties": 10
+      }
+    },
+    {
+      "id": 3,
+      "title": "Brown house blue roof",
+      "address": "Narvik HomeParc Mooi Zutendaal, Zutendaal, Belgium",
+      "facility": {
+        "beds": 1,
+        "baths": 1,
+        "area": "38M",
+        "smooking-area": true,
+        "kitchen": true,
+        "balcony": true,
+        "wifi": true,
+        "parking-area": true
+      },
+      "status": "sale",
+      "type": "apartment",
+      "price": 7500,
+      "image": [
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "https://images.unsplash.com/photo-1472224371017-08207f84aaae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "https://images.unsplash.com/photo-1459535653751-d571815e906b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=868&q=8080",
+        "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+        "https://images.unsplash.com/photo-1558036117-15d82a90b9b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=8080"
+      ]
+    }
+  ]
 }
