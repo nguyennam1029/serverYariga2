@@ -14,7 +14,7 @@
         "wifi": true,
         "parking-area": true
       },
-      "status": "sale",
+      "status": "rent",
       "type": "apartment",
       "price": 7500,
       "image": [
@@ -50,7 +50,7 @@
         "wifi": true,
         "parking-area": true
       },
-      "status": "sale",
+      "status": "rent",
       "type": "apartment",
       "price": 8908900,
       "image": [
@@ -87,7 +87,7 @@
         "wifi": true,
         "parking-area": true
       },
-      "status": "sale",
+      "status": "rent",
       "type": "apartment",
       "price": 17500,
       "image": [
@@ -112,7 +112,7 @@
         "wifi": true,
         "parking-area": true
       },
-      "status": "sale",
+      "status": "rent",
       "type": "apartment",
       "price": 3500,
       "image": [
@@ -148,7 +148,7 @@
         "wifi": true,
         "parking-area": true
       },
-      "status": "sale",
+      "status": "rent",
       "type": "apartment",
       "price": 2200,
       "image": [
